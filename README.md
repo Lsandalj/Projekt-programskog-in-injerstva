@@ -21,3 +21,4 @@ Sofversko rješenje će omogućiti da se uz pomoć aplikacije poboljša zadovolj
 
 ## Resursi
 Svi resursi nalaze se u mapi _Documentation_.
+Projekt se nalazi u Wiki.
